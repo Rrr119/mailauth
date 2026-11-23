@@ -1,0 +1,17 @@
+{
+  "root": "/home/dev/feedback/uid32291",
+  "B": "/home/dev/feedback/uid32291",
+  "sha": "aec381e2084bb7cdddba0fd8d38fe177fd77addd",
+  "wslDistro": "Ubuntu-26.04",
+  "source": {
+    "owner": "postalsys",
+    "repo": "mailauth",
+    "sha": "aec381e2084bb7cdddba0fd8d38fe177fd77addd"
+  },
+  "fork": {
+    "owner": "Rrr119",
+    "repo": "mailauth",
+    "cloneUrl": "https://github.com/Rrr119/mailauth.git"
+  },
+  "at": "2026-11-23T03:05:23.383Z"
+}
